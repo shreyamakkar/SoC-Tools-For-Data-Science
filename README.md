@@ -1,5 +1,5 @@
 # SoC-Tools-For-Data-Science
-# The repository contains all the reading material provided by the mentor and tasks. Along with that, there are also the task submissions made by the assignment team I was in. 
+# The repository contains all the reading material and tasks provided by the mentor. Along with that, there are also the task submissions made by the assignment team I was in. 
 # The last file is an implementation of the concepts learnt during the SoC. It is Time Series Analysis of Stocks using the ARIMA Model. Tina Garg and I have collaborated on this.
 # Timeline: 
 # (30th March - 10th April): basics about numpy and pandas and regression and task on regression
